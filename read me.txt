@@ -1,0 +1,41 @@
+<!----------------------------------
+	===============================
+		[ Database Uploading ]
+	===============================
+------------------------------------>
+
+	Please Open the BD folder in the Extracted Project.
+
+	Then Create a db name in Phpmyadmin (imp : just like sql file name).
+
+	Then import the sql file in the created database in phpmyadmin.
+
+<!----------------------------------
+	===============================
+		[ Admin Panel ]
+	===============================
+------------------------------------>
+	
+	The Default Adminpanel Password and Username is as follow
+	Username : Admin
+	Where Email use : admin@gmail.com
+	Password : Admin
+	After loged in manage complete web application
+
+<!----------------------------------
+	===============================
+		[ Project Information ]
+	===============================
+------------------------------------>
+
+	This project is created by Aqib Sattar.
+
+	This project is created for educational purpose only.
+
+	If you want to upload it then please buy the licence from our website.
+
+	Dont use for commercial use with out our permission.
+
+	Please Dont violate our Rules/Regulations 
+
+	With Best Regards : Aqib Sattar (Owner of *************)
